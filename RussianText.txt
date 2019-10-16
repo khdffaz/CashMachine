@@ -1,0 +1,3 @@
+autorizationTitleLabel	Введите номер карты и ПИН
+cardNumberLabel	Номер карты
+pinLabel	ПИН

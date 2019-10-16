@@ -1,0 +1,3 @@
+autorizationTitleLabel	Authorization
+cardNumberLabel	Card number
+pinLabel	PIN
